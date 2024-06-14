@@ -1,5 +1,12 @@
 # llamaindex
 
+## 0.3.18
+
+### Patch Changes
+
+- a44e54f: Truncate text to embed for OpenAI if it exceeds maxTokens
+- a51ed8d: feat: add support for managed identity for Azure OpenAI
+
 ## 0.3.17
 
 ### Patch Changes
